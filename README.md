@@ -1,7 +1,7 @@
 # ApcuCacheWrapper
 A tiny PHP class to cache expensive function/method calls (e.g. to remote APIs or databases).
 
-Your application retrieves data from REST services or other remote systems? You have expensive methods for data that doesn't change that often? Then this little helper is for your to improve your applications performance.
+Your application retrieves data from REST services or other remote systems? You have expensive methods for data that doesn't change that often? Then this little helper is for you to improve your applications performance.
 
 ## Usage
 
